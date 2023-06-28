@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.mirza{
+    height: 500px;
+    width: 100%;
+    background-image: url('https://png.pngtree.com/thumb_back/fh260/back_our/20190620/ourmid/pngtree-electronic-technology-website-texture-background-banner-image_156039.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: 10px 10px;
+    background-blend-mode: multiply;
+    background-color: gray;
+}
